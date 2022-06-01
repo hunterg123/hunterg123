@@ -1,5 +1,4 @@
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=hunterg123&width=640&height=320"/>
-
+[![Image](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=hunterg123&width=900&height=200&sort-by-score=true&show-other-skills=true)](https://profile.codersrank.io/user/hunterg123/)
 <!--
 **hunterg123/hunterg123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
